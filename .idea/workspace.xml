@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7cb4526-4b98-4473-80fd-209b954b5037" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/AsusManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/AsusManufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/MsiManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/MsiManufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/CarBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/CarSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/CarSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/CarSchemaBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/CarSchemaBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/BeefBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/BeefBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/BeefBurgerRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/BeefBurgerRestaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/Burger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/VeggieBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/VeggieBurger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/VeggieBurgerRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/VeggieBurgerRestaurant.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UAEHVyCJBfQMBLjN0CCoJwSODZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youtube.geekific.MainApp" />
+      <module name="pattern-structural-adapter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youtube.geekific.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7cb4526-4b98-4473-80fd-209b954b5037" name="Changes" comment="" />
+      <created>1692373899122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692373899122</updated>
+      <workItem from="1692373900918" duration="117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
