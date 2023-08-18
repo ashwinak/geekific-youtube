@@ -1,38 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7cb4526-4b98-4473-80fd-209b954b5037" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/AsusManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/AsusManufacturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/MsiManufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-abstract-factory/src/main/java/com/youtube/geekific/factories/MsiManufacturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Director.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/CarBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/CarSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/CarSchema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/model/CarSchemaBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-builder/src/main/java/com/youtube/geekific/CarSchemaBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/BeefBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/BeefBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/BeefBurgerRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/BeefBurgerRestaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/Burger.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/Burger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/VeggieBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/VeggieBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern-creational-factory/src/main/java/com/youtube/geekific/VeggieBurgerRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern-creational-factory/src/VeggieBurgerRestaurant.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7cb4526-4b98-4473-80fd-209b954b5037" name="Changes" comment="design patterns" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectId" id="2UAEHVyCJBfQMBLjN0CCoJwSODZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,6 +30,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -76,10 +68,32 @@
       <option name="presentableId" value="Default" />
       <updated>1692373899122</updated>
       <workItem from="1692373900918" duration="117000" />
+      <workItem from="1692376218483" duration="906000" />
     </task>
+    <task id="LOCAL-00001" summary="design patterns">
+      <option name="closed" value="true" />
+      <created>1692376418718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692376418718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="design patterns">
+      <option name="closed" value="true" />
+      <created>1692376482766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692376482766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="design patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="design patterns" />
   </component>
 </project>

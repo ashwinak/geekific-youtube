@@ -26,7 +26,6 @@ package com.youtube.geekific;
 
 public class MainApp {
 
-    /*
      * Video Reference: https://youtu.be/wA3keqCeKtM
      */
     public static void main(String[] args) {
