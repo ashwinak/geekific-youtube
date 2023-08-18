@@ -22,22 +22,13 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific.model;
+public class VeggieBurgerRestaurant extends Restaurant {
 
-public interface Builder {
-
-    Builder id(int id);
-
-    Builder brand(String brand);
-
-    Builder model(String model);
-
-    Builder color(String color);
-
-    Builder height(int height);
-
-    Builder engine(String engine);
-
-    Builder nbrOfDoors(int nbrOfDoors) ;
+    @Override
+    public Burger createBurger() {
+        System.out.println("Creating Veggie Burger...");
+        return new VeggieBurger();
+    }
 
 }
+

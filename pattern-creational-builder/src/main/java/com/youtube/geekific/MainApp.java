@@ -22,10 +22,9 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+package src.main.java.com.youtube.geekific;
 
-import com.youtube.geekific.model.CarBuilder;
-import com.youtube.geekific.model.CarSchemaBuilder;
+//import com.youtube.geekific.model.CarBuilder;
 
 public class MainApp {
 

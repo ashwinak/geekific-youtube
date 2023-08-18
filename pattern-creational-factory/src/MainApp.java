@@ -22,15 +22,19 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+public class MainApp {
 
-public class BeefBurgerRestaurant extends Restaurant {
+    /*
+     * Video Reference: https://youtu.be/EdFq_JIThqM
+     */
+    public static void main(String[] args) {
 
-    @Override
-    public Burger createBurger() {
-        System.out.println("Creating Beef Burger...");
-        return new BeefBurger();
+        Restaurant beefResto = new BeefBurgerRestaurant();
+        beefResto.orderBurger();
+
+        System.out.println("==========================================");
+
+        Restaurant veggieResto = new VeggieBurgerRestaurant();
+        veggieResto.orderBurger();
     }
-
 }
-

@@ -22,23 +22,40 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+package src.main.java.com.youtube.geekific;
 
-public class MainApp {
+public class Car {
 
-    /*
-     * Video Reference: https://youtu.be/EdFq_JIThqM
-     */
-    public static void main(String[] args) {
+    private final int id;
+    private final int height;
+    private final String brand;
+    private final String model;
+    private final String color;
+    private final String engine;
+    private final int nbrOfDoors;
 
-        Restaurant beefResto = new BeefBurgerRestaurant();
-        beefResto.orderBurger();
+    Car(int id, String brand, String model, String color, int height, String engine, int nbrOfDoors) {
+        this.id = id;
+        this.brand = brand;
+        this.model = model;
+        this.color = color;
+        this.height = height;
+        this.engine = engine;
+        this.nbrOfDoors = nbrOfDoors;
+    }
 
-        System.out.println("==========================================");
-
-        Restaurant veggieResto = new VeggieBurgerRestaurant();
-        veggieResto.orderBurger();
-
+    @Override
+    public String toString() {
+        return """
+                Car {
+                    id=%s,
+                    height=%s,
+                    brand=%s,
+                    model=%s,
+                    color=%s,
+                    engine=%s,
+                    nbrOfDoors=%s
+                }""".formatted(id, height, brand, model, color, engine, nbrOfDoors);
     }
 
 }

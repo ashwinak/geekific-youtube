@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+package src.main.java.com.youtube.geekific;
 
 import com.youtube.geekific.factories.AsusManufacturer;
 import com.youtube.geekific.factories.Company;

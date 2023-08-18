@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific.model;
+package src.main.java.com.youtube.geekific;
 
 public class CarSchemaBuilder implements Builder {
 

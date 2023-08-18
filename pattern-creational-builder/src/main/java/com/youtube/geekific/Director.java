@@ -22,9 +22,9 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+package src.main.java.com.youtube.geekific;
 
-import com.youtube.geekific.model.Builder;
+//import com.youtube.geekific.model.Builder;
 
 public class Director {
 

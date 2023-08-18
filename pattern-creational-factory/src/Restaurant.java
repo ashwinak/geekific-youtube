@@ -22,15 +22,15 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+public abstract class Restaurant {
 
-public class BeefBurger implements Burger {
-
-    @Override
-    public void prepare() {
-        // Prepare Beef Burger
-        System.out.println("Preparing Beef Burger...");
+    public void orderBurger() {
+        System.out.println("Ordering Burger...");
+        Burger burger = createBurger();
+        burger.prepare();
     }
+
+    public abstract Burger createBurger();
 
 }
 

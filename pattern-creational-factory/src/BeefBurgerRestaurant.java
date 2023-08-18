@@ -22,10 +22,13 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+public class BeefBurgerRestaurant extends Restaurant {
 
-public interface Burger {
-
-    void prepare();
+    @Override
+    public Burger createBurger() {
+        System.out.println("Creating Beef Burger...");
+        return new BeefBurger();
+    }
 
 }
+

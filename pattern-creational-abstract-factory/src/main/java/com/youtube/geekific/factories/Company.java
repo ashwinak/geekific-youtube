@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific.factories;
+package src.main.java.com.youtube.geekific.factories;
 
 import com.youtube.geekific.products.Gpu;
 import com.youtube.geekific.products.Monitor;

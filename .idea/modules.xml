@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo-huffman/algo-huffman.iml" filepath="$PROJECT_DIR$/algo-huffman/algo-huffman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo-lzw/algo-lzw.iml" filepath="$PROJECT_DIR$/algo-lzw/algo-lzw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo-rle/algo-rle.iml" filepath="$PROJECT_DIR$/algo-rle/algo-rle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation-processing/src/annotation-processing.iml" filepath="$PROJECT_DIR$/annotation-processing/src/annotation-processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-bfs/graph-bfs.iml" filepath="$PROJECT_DIR$/graph-bfs/graph-bfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-dfs/graph-dfs.iml" filepath="$PROJECT_DIR$/graph-dfs/graph-dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-dijkstra/graph-dijkstra.iml" filepath="$PROJECT_DIR$/graph-dijkstra/graph-dijkstra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-floyd-warshall/graph-floyd-warshall.iml" filepath="$PROJECT_DIR$/graph-floyd-warshall/graph-floyd-warshall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-ford-fulkerson/graph-ford-fulkerson.iml" filepath="$PROJECT_DIR$/graph-ford-fulkerson/graph-ford-fulkerson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-kruskal/graph-kruskal.iml" filepath="$PROJECT_DIR$/graph-kruskal/graph-kruskal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph-prim/graph-prim.iml" filepath="$PROJECT_DIR$/graph-prim/graph-prim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impl-linkedlist/impl-linkedlist.iml" filepath="$PROJECT_DIR$/impl-linkedlist/impl-linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impl-map/impl-map.iml" filepath="$PROJECT_DIR$/impl-map/impl-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impl-queue/impl-queue.iml" filepath="$PROJECT_DIR$/impl-queue/impl-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impl-stack/impl-stack.iml" filepath="$PROJECT_DIR$/impl-stack/impl-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infix-prefix-postfix/infix-prefix-postfix.iml" filepath="$PROJECT_DIR$/infix-prefix-postfix/infix-prefix-postfix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation-processing/model/model.iml" filepath="$PROJECT_DIR$/annotation-processing/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-chain-of-responsibility/pattern-behavioral-chain-of-responsibility.iml" filepath="$PROJECT_DIR$/pattern-behavioral-chain-of-responsibility/pattern-behavioral-chain-of-responsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-command/pattern-behavioral-command.iml" filepath="$PROJECT_DIR$/pattern-behavioral-command/pattern-behavioral-command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-iterator/pattern-behavioral-iterator.iml" filepath="$PROJECT_DIR$/pattern-behavioral-iterator/pattern-behavioral-iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-mediator/pattern-behavioral-mediator.iml" filepath="$PROJECT_DIR$/pattern-behavioral-mediator/pattern-behavioral-mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-memento/pattern-behavioral-memento.iml" filepath="$PROJECT_DIR$/pattern-behavioral-memento/pattern-behavioral-memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-observer/pattern-behavioral-observer.iml" filepath="$PROJECT_DIR$/pattern-behavioral-observer/pattern-behavioral-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-state/pattern-behavioral-state.iml" filepath="$PROJECT_DIR$/pattern-behavioral-state/pattern-behavioral-state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-strategy/pattern-behavioral-strategy.iml" filepath="$PROJECT_DIR$/pattern-behavioral-strategy/pattern-behavioral-strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-template-method/pattern-behavioral-template-method.iml" filepath="$PROJECT_DIR$/pattern-behavioral-template-method/pattern-behavioral-template-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-behavioral-visitor/pattern-behavioral-visitor.iml" filepath="$PROJECT_DIR$/pattern-behavioral-visitor/pattern-behavioral-visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-creational-factory/pattern-creational-factory.iml" filepath="$PROJECT_DIR$/pattern-creational-factory/pattern-creational-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-creational-prototype/pattern-creational-prototype.iml" filepath="$PROJECT_DIR$/pattern-creational-prototype/pattern-creational-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-creational-singleton/pattern-creational-singleton.iml" filepath="$PROJECT_DIR$/pattern-creational-singleton/pattern-creational-singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-structural-adapter/pattern-structural-adapter.iml" filepath="$PROJECT_DIR$/pattern-structural-adapter/pattern-structural-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-structural-bridge/pattern-structural-bridge.iml" filepath="$PROJECT_DIR$/pattern-structural-bridge/pattern-structural-bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-structural-composite/pattern-structural-composite.iml" filepath="$PROJECT_DIR$/pattern-structural-composite/pattern-structural-composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-structural-decorator/pattern-structural-decorator.iml" filepath="$PROJECT_DIR$/pattern-structural-decorator/pattern-structural-decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-structural-facade/pattern-structural-facade.iml" filepath="$PROJECT_DIR$/pattern-structural-facade/pattern-structural-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-structural-flyweight/pattern-structural-flyweight.iml" filepath="$PROJECT_DIR$/pattern-structural-flyweight/pattern-structural-flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-structural-proxy/pattern-structural-proxy.iml" filepath="$PROJECT_DIR$/pattern-structural-proxy/pattern-structural-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation-processing/processor/processor.iml" filepath="$PROJECT_DIR$/annotation-processing/processor/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-bubble/sort-bubble.iml" filepath="$PROJECT_DIR$/sort-bubble/sort-bubble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-bucket/sort-bucket.iml" filepath="$PROJECT_DIR$/sort-bucket/sort-bucket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-counting/sort-counting.iml" filepath="$PROJECT_DIR$/sort-counting/sort-counting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-dualpivot/sort-dualpivot.iml" filepath="$PROJECT_DIR$/sort-dualpivot/sort-dualpivot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-insertion/sort-insertion.iml" filepath="$PROJECT_DIR$/sort-insertion/sort-insertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-merge/sort-merge.iml" filepath="$PROJECT_DIR$/sort-merge/sort-merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-quick/sort-quick.iml" filepath="$PROJECT_DIR$/sort-quick/sort-quick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-radix/sort-radix.iml" filepath="$PROJECT_DIR$/sort-radix/sort-radix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-selection/sort-selection.iml" filepath="$PROJECT_DIR$/sort-selection/sort-selection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-shell/sort-shell.iml" filepath="$PROJECT_DIR$/sort-shell/sort-shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-tim/sort-tim.iml" filepath="$PROJECT_DIR$/sort-tim/sort-tim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort-tree/sort-tree.iml" filepath="$PROJECT_DIR$/sort-tree/sort-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-avl/tree-avl.iml" filepath="$PROJECT_DIR$/tree-avl/tree-avl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-bst/tree-bst.iml" filepath="$PROJECT_DIR$/tree-bst/tree-bst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-heap/tree-heap.iml" filepath="$PROJECT_DIR$/tree-heap/tree-heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-redblack/tree-redblack.iml" filepath="$PROJECT_DIR$/tree-redblack/tree-redblack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-splay/tree-splay.iml" filepath="$PROJECT_DIR$/tree-splay/tree-splay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-trie/tree-trie.iml" filepath="$PROJECT_DIR$/tree-trie/tree-trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tree-tst/tree-tst.iml" filepath="$PROJECT_DIR$/tree-tst/tree-tst.iml" />
+    </modules>
+  </component>
+</project>

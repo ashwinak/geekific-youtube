@@ -22,17 +22,22 @@
  * SOFTWARE.
  */
 
-package com.youtube.geekific;
+package src.main.java.com.youtube.geekific;
 
-public abstract class Restaurant {
+public interface Builder {
 
-    public void orderBurger() {
-        System.out.println("Ordering Burger...");
-        Burger burger = createBurger();
-        burger.prepare();
-    }
+    Builder id(int id);
 
-    public abstract Burger createBurger();
+    Builder brand(String brand);
+
+    Builder model(String model);
+
+    Builder color(String color);
+
+    Builder height(int height);
+
+    Builder engine(String engine);
+
+    Builder nbrOfDoors(int nbrOfDoors) ;
 
 }
-
